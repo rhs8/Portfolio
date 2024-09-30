@@ -1,0 +1,137 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Robot, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* margin: 0; */
+    /* min-height: 100vh; */
+    justify-content: space-between;
+}
+
+.header {
+    background-color: #1f2937;
+    color: white;
+}
+
+.hl {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: 900px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+.c1 {
+    background-color: #1f2937;
+}
+
+.title1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 2000px;
+}
+
+.par1 {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.su {
+    background: #3882f6;
+    color: white;
+    font-size: 20px;
+}
+
+.c2 {
+
+}
+
+.title2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.sc2{
+
+}
+
+.box {
+    border: 1px solid #3882F6;
+    box-shadow: 2px 4px 16px rgba(0,0,0,.06);
+    border-radius: 4px;
+    gap: 200px;
+    width: 100px;
+    height: 100px;
+
+}
+
+.subtext {
+    font-size: 18px;
+    color: #1F2937;
+
+}
+
+.c3 {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-style: light italic;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.by {
+    color: #1F2937;
+    font-weight: 2000px;
+
+}
+
+.c4 {
+
+}
+
+.sc4 {
+    background-color: #3882f6;
+
+}
+
+.title4 {
+    color: white;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.par4 {
+    color: white;
+    font-size: 18px;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+
+
+
